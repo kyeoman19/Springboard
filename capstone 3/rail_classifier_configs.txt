@@ -1,0 +1,46 @@
+# NAMES
+cloud: PC1=  # let the filename blank if not needed, but keep the = sign
+
+# CORE POINTS
+core_points: PC1
+
+# SCALES
+scales: 0.1;0.5;1  # scales as a list
+
+
+# FEATURES
+
+# POINT FEATURES
+feature: R_SC0_PC1
+feature: G_SC0_PC1
+feature: B_SC0_PC1
+feature: INT_SC0_PC1
+feature: X_SC0_PC1
+feature: Y_SC0_PC1
+feature: Z_SC0_PC1
+
+# GEOMETRY FEATURES
+feature: PCA1_SCx_PC1
+feature: PCA2_SCx_PC1
+feature: PCA3_SCx_PC1
+feature: DIP_SCx_PC1
+feature: DIPDIR_SCx_PC1
+feature: ROUGH_SCx_PC1
+feature: ANISO_SCx_PC1
+feature: SPHER_SCx_PC1
+feature: LINEA_SCx_PC1
+feature: PLANA_SCx_PC1
+feature: FOM_SCx_PC1
+feature: CURV_SCx_PC1
+feature: ZRANGE_SCx_PC1
+feature: ZMAX_SCx_PC1
+feature: ZMIN_SCx_PC1
+
+# NORMALS
+feature: NORMDIP_SC0_PC1
+feature: NORMDIPDIR_SC0_PC1
+
+# PCV
+feature: PCV_SC0_PC1
+
+
